@@ -1,0 +1,16 @@
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Recipes.MainForm.resources
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\CreateReceipt.Properties.Resources.resources
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Receipts.csproj.GenerateResource.cache
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Receipts.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Receipts.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Receipts.Properties.Resources.resources
+C:\Users\jerem\source\Recipes\Recipes\obj\Debug\Receipts.csprojAssemblyReference.cache
+C:\Users\jerem\source\Recipes\Recipes\obj\Debug\Recipes.MainForm.resources
+C:\Users\jerem\source\Recipes\Recipes\obj\Debug\Receipts.Properties.Resources.resources
+C:\Users\jerem\source\Recipes\Recipes\obj\Debug\Receipts.csproj.GenerateResource.cache
+C:\Users\jerem\source\Recipes\Recipes\obj\Debug\Receipts.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Receipts\Recipes\obj\Debug\Receipts.csprojAssemblyReference.cache
+C:\Users\jerem\source\Receipts\Recipes\obj\Debug\Recipes.MainForm.resources
+C:\Users\jerem\source\Receipts\Recipes\obj\Debug\Receipts.Properties.Resources.resources
+C:\Users\jerem\source\Receipts\Recipes\obj\Debug\Receipts.csproj.GenerateResource.cache
+C:\Users\jerem\source\Receipts\Recipes\obj\Debug\Receipts.csproj.CoreCompileInputs.cache

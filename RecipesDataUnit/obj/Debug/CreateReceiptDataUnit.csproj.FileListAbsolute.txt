@@ -1,0 +1,5 @@
+C:\Users\jerem\Documents\124\Recipes\RecipesDataUnit\obj\Debug\CreateReceiptDataUnit.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Recipes\RecipesDataUnit\obj\Debug\CreateReceiptDataUnit.csprojAssemblyReference.cache
+C:\Users\jerem\source\Recipes\RecipesDataUnit\obj\Debug\CreateReceiptDataUnit.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Receipts\RecipesDataUnit\obj\Debug\CreateReceiptDataUnit.csprojAssemblyReference.cache
+C:\Users\jerem\source\Receipts\RecipesDataUnit\obj\Debug\CreateReceiptDataUnit.csproj.CoreCompileInputs.cache

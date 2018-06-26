@@ -1,0 +1,11 @@
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\bin\Debug\ResipesEntities.dll.config
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\bin\Debug\ResipesEntities.dll
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\bin\Debug\ResipesEntities.pdb
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\bin\Debug\RecipesDomainAbstractions.dll
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\bin\Debug\RecipesDomainAbstractions.pdb
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\bin\Debug\RecipesDomainAbstractions.dll.config
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\obj\Debug\ResipesEntities.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\obj\Debug\ResipesEntities.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\obj\Debug\ResipesEntities.csproj.CopyComplete
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\obj\Debug\ResipesEntities.dll
+C:\Users\jerem\Documents\123\Recipes\ResipesEntities\obj\Debug\ResipesEntities.pdb

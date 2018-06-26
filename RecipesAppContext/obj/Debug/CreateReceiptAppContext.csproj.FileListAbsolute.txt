@@ -1,0 +1,6 @@
+C:\Users\jerem\Documents\124\Recipes\RecipesAppContext\obj\Debug\CreateReceiptAppContext.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\124\Recipes\RecipesAppContext\obj\Debug\CreateReceiptAppContext.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Recipes\RecipesAppContext\obj\Debug\CreateReceiptAppContext.csprojAssemblyReference.cache
+C:\Users\jerem\source\Recipes\RecipesAppContext\obj\Debug\CreateReceiptAppContext.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Receipts\RecipesAppContext\obj\Debug\CreateReceiptAppContext.csprojAssemblyReference.cache
+C:\Users\jerem\source\Receipts\RecipesAppContext\obj\Debug\CreateReceiptAppContext.csproj.CoreCompileInputs.cache

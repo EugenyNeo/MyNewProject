@@ -1,0 +1,2 @@
+C:\Users\jerem\Documents\124\Recipes\Recept.Tests\obj\Debug\CreateReceipt.Tests.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\124\Recipes\Recept.Tests\obj\Debug\CreateReceipt.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\jerem\Documents\123\Recipes\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\123\Recipes\Recipes\obj\Debug\Recipes.MainForm.resources
+C:\Users\jerem\Documents\123\Recipes\Recipes\obj\Debug\Recipes.Properties.Resources.resources
+C:\Users\jerem\Documents\123\Recipes\Recipes\obj\Debug\Recipes.csproj.GenerateResource.cache
+C:\Users\jerem\Documents\123\Recipes\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Recipes.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Recipes.MainForm.resources
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\CreateReceipt.Properties.Resources.resources
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Recipes.csproj.GenerateResource.cache
+C:\Users\jerem\Documents\124\Recipes\Recipes\obj\Debug\Recipes.csproj.CoreCompileInputs.cache

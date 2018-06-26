@@ -1,0 +1,8 @@
+C:\Users\jerem\Documents\124\Recipes\ResipesEntities\obj\Debug\CreateReceiptEntities.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\124\Recipes\ResipesEntities\obj\Debug\CreateReceiptEntities.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\124\Recipes\ResipesEntities\obj\Debug\ResipesEntities.dll
+C:\Users\jerem\Documents\124\Recipes\ResipesEntities\obj\Debug\ResipesEntities.pdb
+C:\Users\jerem\source\Recipes\ResipesEntities\obj\Debug\CreateReceiptEntities.csprojAssemblyReference.cache
+C:\Users\jerem\source\Recipes\ResipesEntities\obj\Debug\CreateReceiptEntities.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Receipts\ResipesEntities\obj\Debug\CreateReceiptEntities.csprojAssemblyReference.cache
+C:\Users\jerem\source\Receipts\ResipesEntities\obj\Debug\CreateReceiptEntities.csproj.CoreCompileInputs.cache

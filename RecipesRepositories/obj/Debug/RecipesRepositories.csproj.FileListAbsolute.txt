@@ -1,0 +1,2 @@
+C:\Users\jerem\Documents\123\Recipes\RecipesRepositories\obj\Debug\RecipesRepositories.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\123\Recipes\RecipesRepositories\obj\Debug\RecipesRepositories.csprojAssemblyReference.cache

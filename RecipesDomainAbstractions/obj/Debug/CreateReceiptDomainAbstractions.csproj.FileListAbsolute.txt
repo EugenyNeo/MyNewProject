@@ -1,0 +1,11 @@
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\bin\Debug\RecipesDomainAbstractions.dll.config
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\bin\Debug\RecipesDomainAbstractions.dll
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\bin\Debug\RecipesDomainAbstractions.pdb
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\obj\Debug\CreateReceiptDomainAbstractions.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\obj\Debug\CreateReceiptDomainAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.dll
+C:\Users\jerem\Documents\124\Recipes\RecipesDomainAbstractions\obj\Debug\RecipesDomainAbstractions.pdb
+C:\Users\jerem\source\Recipes\RecipesDomainAbstractions\obj\Debug\CreateReceiptDomainAbstractions.csprojAssemblyReference.cache
+C:\Users\jerem\source\Recipes\RecipesDomainAbstractions\obj\Debug\CreateReceiptDomainAbstractions.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\Receipts\RecipesDomainAbstractions\obj\Debug\CreateReceiptDomainAbstractions.csprojAssemblyReference.cache
+C:\Users\jerem\source\Receipts\RecipesDomainAbstractions\obj\Debug\CreateReceiptDomainAbstractions.csproj.CoreCompileInputs.cache
